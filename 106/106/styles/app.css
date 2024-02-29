@@ -1,0 +1,17 @@
+main{
+    display: flex;
+    height: 100vh;
+}
+#list{
+    background-color: rgb(200, 200, 250);
+    flex: 3;
+}
+#form{
+    background-color: rgb(255, 174, 187);
+    flex: 3;
+}
+.btn-color{
+    background-color: rgb(133, 231, 181);
+    color: rgb(0, 0, 0)
+    ;
+}
